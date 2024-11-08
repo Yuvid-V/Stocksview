@@ -21,7 +21,6 @@ Selamat datang di sebuah aplikasi analisis dan peramalan saham end-to-end. Proye
 
 
 
-## Link : https://profitfinder.streamlit.app/
 
 
 ## Technologies Used
