@@ -15,12 +15,6 @@ Selamat datang di sebuah aplikasi analisis dan peramalan saham end-to-end. Proye
 - Memvisualisasikan perkembangan pelatihan dan melihat hasil peramalan dalam format yang jelas dan intuitif.
 
 
-# Demo
-<img width="949" alt="Screenshot 2024-10-22 225444" src="https://github.com/user-attachments/assets/296d46bf-dff1-49f6-8b84-12ecd17412a3">
-
-
-
-
 
 
 ## Technologies Used
